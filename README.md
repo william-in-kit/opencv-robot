@@ -13,4 +13,4 @@ pingpong-tracking
 
 visual servo control with obstacle avoidance
 ---------------------------------------------
-![pingpong-tracking](https://github.com/william-in-kit/opencv-robot/blob/master/pingpong-tracking.gif)
+![visual servo control with obstacle avoidanc](https://github.com/william-in-kit/opencv-robot/blob/master/visual_servo_control.gif)
