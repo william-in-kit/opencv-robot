@@ -1,7 +1,4 @@
-# opencv-robot
-use opencv to control the robot
-
-bachelor-thesis
+#bachelor-thesis
 =================
 visual servo control with a 3 Dof robot arm
 -----------------------------------------------
